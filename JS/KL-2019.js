@@ -1,5 +1,4 @@
 // JavaScript Document
-// v1.01
 $(document).ready(function() {
 	$('#KL-2019').DataTable({
 		"columnDefs": [
